@@ -7,4 +7,5 @@
 | 3.  | VegaIT Meetup GeekStone    | Meetup     | December 14th 2022.      | Novi Sad (Serbia)    | :heavy_check_mark: |
 | 4.  | AWS UG Belgrade Meetup     | Meetup     |                          | Belgrade (Serbia)    | ???                |
 | 5.  | Devoxx Days Romania        | Conference | 2023.                    | Buchuresti (Romania) | CFP ???            |
-| 6.  | Something New              | Meetup     |                          |                      | ???                |
+| 6.  | MakeIT Slovenia            | Conference | June 1st - 2nd 2023.     | Portorož (Slovenia)  | CFP ???            |
+| 7.  | Something new ?            | Meetup     | ???                      | ???                  | CFP ???            |

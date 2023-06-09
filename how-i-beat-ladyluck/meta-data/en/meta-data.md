@@ -30,4 +30,4 @@ _Aleksandar is accomplished individual with a strong background in Java (20+ yea
 
 ![Aleksandar Stoisavljević][authorimage]
 
-[authorimage]: ../../images/astoisavljevic_cv_photo.jpg "Aleksandar Stoisavljevic image"
+[authorimage]: ../../../images/astoisavljevic_cv_photo.jpg "Aleksandar Stoisavljevic image"

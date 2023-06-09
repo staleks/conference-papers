@@ -38,4 +38,4 @@ _Aleksandar je ostvarni pojedinac sa velikim iskustvom u Javi (20+ godina u IT p
 
 ![Aleksandar Stoisavljević][authorimage]
 
-[authorimage]: ../../images/astoisavljevic_cv_photo.jpg "Aleksandar Stoisavljevic image"
+[authorimage]: ../../../images/astoisavljevic_cv_photo.jpg "Aleksandar Stoisavljevic image"

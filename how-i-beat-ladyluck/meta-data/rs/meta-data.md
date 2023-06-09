@@ -3,15 +3,14 @@
 ## Naslov prezentacije: "Kako sam pobedio sreću?"
 
 Podnaslov: Zašto su side projekti neophodni software developerima?
-<hr>
 
+<hr>
 
 ## Author
 
-
 **Aleksandar Stoisavljević**
 
-*IT konsultant, AWS Software Architect*
+_IT konsultant, AWS Software Architect_
 
 <hr>
 
@@ -27,9 +26,8 @@ Aleksandar je ostvarni pojedinac sa velikim iskustvom u Javi (20+ godina u IT po
 
 <hr>
 
-
 ## Author image
 
 ![Aleksandar Stoisavljević][authorimage]
 
-[authorimage]: ../../images/astoisavljevic_cv_photo.jpg "Aleksandar Stoisavljevic image"
+[authorimage]: ../../../images/astoisavljevic_cv_photo.jpg "Aleksandar Stoisavljevic image"

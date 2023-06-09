@@ -3,15 +3,14 @@
 ## Naslov prezentacije: "Unapredjenje Cloud Igre: Otkrijte snagu AWS Cost Optimization u svrhu unapredjenja poslovanja"
 
 Podnaslov: Produkcioni primeri o tome kako uštedeti i pri tome skalirati u postizanju uspeha.
-<hr>
 
+<hr>
 
 ## Author
 
-
 **Aleksandar Stoisavljević**
 
-*IT konsultant, AWS Software Architect*
+_IT konsultant, AWS Software Architect_
 
 <hr>
 
@@ -27,9 +26,8 @@ Aleksandar je ostvarni pojedinac sa velikim iskustvom u Javi (20+ godina u IT po
 
 <hr>
 
-
 ## Author image
 
 ![Aleksandar Stoisavljević][authorimage]
 
-[authorimage]: ../../images/astoisavljevic_cv_photo.jpg "Aleksandar Stoisavljevic image"
+[authorimage]: ../../../images/astoisavljevic_cv_photo.jpg "Aleksandar Stoisavljevic image"

@@ -1,3 +1,3 @@
 # Conference papers
 
-Repository to hold presentations that I am helding on various conferences
+Repository of content that I'm presenting on various conferences.

@@ -1,8 +1,8 @@
 # Meta data about presentation
 
-## Presentation title: "How I beat The Lady Luck?"
+## Presentation title: "Simplifying AI Complexity: Unmasking the conspiracy!"
 
-Subtitle: Why software developers need side project(s)?
+Subtitle: Gentle introduction to Generative AI for all to understand and empower
 
 <hr>
 
@@ -16,7 +16,7 @@ _IT consultant, AWS Software Architect_
 
 ## Presentation abstract
 
-_Most of us as software developers have something called a "Main Job", which we do to earn money, provide for our family, take care of our needs. In many cases, the main job may not be according to our desire and control. So what happens to passion and desire to learn something new? That's where a “Side Project” comes in. A “Side Project” is something you do in addition to your main job to fuel your passion to learn something new. It has several benefits such as: living your passion, learning new skills, potential for growth, boosting your mental health, etc. The goal of this presentation is to show what you can do in four, five evenings and enrich your experience. The idea came while I was watching the Eurovision Song Contest with my friends. I wanted to be ahead by knowing who the favourites and possible winners are. The presentation will answer some questions such as: what was the trigger, how to develop your idea, what is needed to make it happen and finally the conclusion._
+_We will delve into the enigmatic world of artificial intelligence to demystify the myths and misconceptions that often cloud its understanding. We’ll explore how Large Language Models (LLMs) like GPT function, utilizing vast amounts of data and sophisticated algorithms to generate human-like text. We will also discuss the broader category of Generative AI, which includes technologies that can create content ranging from text to images and music, illustrating the capabilities and potential of these systems. To further illustrate the versatility of AI, we will delve into the Retriever-Augmented Generation (RAG) architecture, which combines the strengths of information retrieval with generative models to enhance answer accuracy and relevance. Examples of RAG in action include its use in enhancing search engine responses and improving interactive educational tools, demonstrating its practical applications across various industries. This comprehensive exploration will provide a solid foundation for understanding the current landscape and future potential of AI technologies._
 
 <hr>
 

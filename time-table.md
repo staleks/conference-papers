@@ -14,3 +14,4 @@
 | 10.  | VTŠ Novi Sad                              | Presentation        | December 7th 2023.                       | Novi Sad (Serbia)                  | ["Elevate The Cloud Game"](./elevate-the-gloud-game/meta-data/en/meta-data.md)                                                                                                                                 | :heavy_check_mark:                |
 | 11. | JavaCro 2024  | Conference | October 13th - 16th 2024. | Rovinj (Croatia) | ["Simplifying AI Complexity: Unmasking the conspiracy!"](./ai_ml/meta-data/en/meta-data.md) | :heavy_check_mark: |
 | 12. | VTS Novi Sad | Presentation | November 14th 2024. | Novi Sad (Serbia) | ["Simplifying AI Complexity: Unmasking the conspiracy!"](./ai_ml/meta-data/en/meta-data.md) | :heavy_check_mark: |
+| 13. | | ??? | ["AI Agents: Title" ](./ai_ml/meta-data/en/meta-data.md) | preparing |
